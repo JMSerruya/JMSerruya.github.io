@@ -25,12 +25,20 @@ body {
 	text-transform: uppercase;
 }
 
+.new-section h2 {
+}
+
 .subhead {
 	font-size: 0.9em;
 	font-weight: 300;
 	color: #999;
 	text-transform: uppercase;
+}
 
+.subhead-strong {
+	font-size: 0.9em;
+	font-weight: 300;
+	text-transform: uppercase;	
 }
 
 .writing-list li a {
@@ -74,6 +82,8 @@ body {
 	font-weight: 600;
 	font-size: 1.8em;
 	margin-bottom: 25px;
+	border-bottom: 6px solid #eee;
+	display: inline-block;
 }
 
 .navbar-brand {
@@ -87,6 +97,10 @@ body {
 
 p, ul {
 	font-size: 1.1em;
+}
+
+.new-section li {
+	margin-bottom: 9px;
 }
 
 p strong {
