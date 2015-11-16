@@ -28,6 +28,18 @@ body {
 .new-section h2 {
 }
 
+.anchor {
+	padding-top: 70px;
+	cursor: normal;
+	color: #333;
+	text-decoration: none;
+}
+
+.anchor:hover {
+	color: #333;
+	text-decoration: none;
+}
+
 .subhead {
 	font-size: 0.9em;
 	font-weight: 300;
@@ -64,8 +76,8 @@ body {
 }
 
 .navbar {
-	background: #fff;
-	min-height: 45px;
+	background: white;
+	height: 40px;
 }
 
 .new-section {
@@ -87,8 +99,10 @@ body {
 }
 
 .navbar-brand {
+	font-family: 'Raleway';
 	font-size: 1.2em;
-	font-weight: 600;
+	font-weight: 700;
+	color: black !important;
 }
 
 .navbar-nav {
