@@ -80,7 +80,7 @@ body {
 	height: 40px;
 }
 
-.navbar-collapse {
+.navbar-collapse.in {
 	background-color: white;
 }
 .new-section {
