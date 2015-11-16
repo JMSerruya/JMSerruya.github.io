@@ -80,6 +80,9 @@ body {
 	height: 40px;
 }
 
+.navbar-collapse {
+	background-color: white;
+}
 .new-section {
 	margin-top: 18px;
 }
